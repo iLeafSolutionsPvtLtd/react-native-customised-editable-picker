@@ -1,32 +1,32 @@
 {
-	"name": " react-native-customised-editable-picker",
-	"version": "0.0.7",
-	"private": false,
-	"scripts": {
-		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"test": "jest"
-	},
-	"dependencies": {
-		"react": "16.0.0",
-		"react-native": "0.50.2"
-	},
-	"devDependencies": {
-		"babel-jest": "21.2.0",
-		"babel-preset-react-native": "4.0.0",
-		"jest": "21.2.1",
-		"react-test-renderer": "16.0.0"
-	},
-	"jest": {
-		"preset": "react-native"
-	},
-	"keywords": [
-		"react-native",
+  "name": " react-native-customised-editable-picker",
+  "version": "0.0.8",
+  "private": false,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "0.50.2"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "react-native",
     "react native picker",
     "react native customised picker",
     "react-native customised editable picker"
   ],
-	"repository": {
-	 "type": "git",
-	 "url": "git+https://github.com/iLeafSolutionsPvtLtd/react-native-customised-editable-picker.git"
- }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLeafSolutionsPvtLtd/react-native-customised-editable-picker.git"
+  }
 }
