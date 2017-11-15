@@ -1,13 +1,16 @@
 # react-native-customised-editable-picker
+
     React native Editable picker component for both android and ios
 
 ## Introduction
-    Editable picker component can be used both as picker and text input where picker when long pressed turn to text input and new items can be added to the list
+
+    Editable picker component can be used both as a picker and text input where picker when long pressed turn to text input and new items can be added to the list
 
 ## Features
-   a. can be customised by the user to edit and add items
-   b. styles can be customised
-   c. pure javascript implementation
+
+* can be customised by the user to edit and add items
+* styles can be customised
+* pure javascript implementation
 
 ## Installation:
 
@@ -16,8 +19,8 @@
     ```
     npm install react-native-customised-editable-picker --save
     ```
-    <img src="https://user-images.githubusercontent.com/32927921/32820114-b9e21a26-c9f2-11e7-9176-1113de74fa67.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820128-ccbc4586-c9f2-11e7-962e-1f3fd926c548.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820138-e626a958-c9f2-11e7-8136-6798a94abd88.png" width="280"/>
-    <img src="https://user-images.githubusercontent.com/32927921/32820071-91cf36d6-c9f2-11e7-8393-5847d7aded70.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820051-73d749b6-c9f2-11e7-9732-73e168a64689.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820030-57e4f898-c9f2-11e7-8867-c3652f0eb502.png" width="280"/>
+    <img src="https://user-images.githubusercontent.com/32927921/32820700-cc605df4-c9f5-11e7-8cd7-02863284ced7.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820707-d40bf3e2-c9f5-11e7-9e0b-d795f13ce1f9.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820710-d8ef8a40-c9f5-11e7-95a5-d9fd97b8fefb.png" width="280"/>
+    <img src="https://user-images.githubusercontent.com/32927921/32820713-dce4ec26-c9f5-11e7-93c3-939aa9e96acf.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820721-e01e03d2-c9f5-11e7-8988-6c631ea92925.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820724-e39cda42-c9f5-11e7-8cf7-170ba6708854.png" width="280"/>
 
 
 
@@ -33,14 +36,16 @@
     />
     ```
 
+
+
 ## Props:
 
   ` * ` - mandatory
 
-    Props Name | Description
-    ---------- | -----------
-    ` * data` | array content listed for picker
-    ` * isEditable` | condition to check whether picker is editable or not
-    `   pickerStyle` | styles applied to picker component
-    `   modalStyle` | styles applied to the modal component
-    `   textinputStyle` | styles applied to the text input
+Props Name          |               Description
+------------------- | ---------------------------------------------------
+` * data`           | array content listed for picker
+` * isEditable`     | condition to check whether picker is editable or not
+`   pickerStyle`    | styles applied to picker component
+`   modalStyle`     | styles applied to the modal component
+`   textinputStyle` | styles applied to the text input
