@@ -19,8 +19,8 @@
     ```
     npm install react-native-customised-editable-picker --save
     ```
-    <img src="https://user-images.githubusercontent.com/32927921/32820700-cc605df4-c9f5-11e7-8cd7-02863284ced7.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820707-d40bf3e2-c9f5-11e7-9e0b-d795f13ce1f9.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820710-d8ef8a40-c9f5-11e7-95a5-d9fd97b8fefb.png" width="280"/>
-    <img src="https://user-images.githubusercontent.com/32927921/32820713-dce4ec26-c9f5-11e7-93c3-939aa9e96acf.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820721-e01e03d2-c9f5-11e7-8988-6c631ea92925.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32820724-e39cda42-c9f5-11e7-8cf7-170ba6708854.png" width="280"/>
+    <img src="https://user-images.githubusercontent.com/32927921/32874880-f0669de2-caba-11e7-9dff-b760dfd87d0c.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874891-04560c0c-cabb-11e7-9dc8-d0f546773d8c.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874906-171a3692-cabb-11e7-8607-85f6a840f017.png" width="280"/>
+    <img src="https://user-images.githubusercontent.com/32927921/32874920-2c977c00-cabb-11e7-99ba-a21c17851f77.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874920-2c977c00-cabb-11e7-99ba-a21c17851f77.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874977-79b11442-cabb-11e7-887a-b471e36cc18a.png" width="280"/>
 
 
 
