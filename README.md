@@ -19,9 +19,9 @@
     ```
     npm install react-native-customised-editable-picker --save
     ```
-    <img src="https://user-images.githubusercontent.com/32927921/32874880-f0669de2-caba-11e7-9dff-b760dfd87d0c.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874891-04560c0c-cabb-11e7-9dc8-d0f546773d8c.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874906-171a3692-cabb-11e7-8607-85f6a840f017.png" width="280"/>
-    <img src="https://user-images.githubusercontent.com/32927921/32874920-2c977c00-cabb-11e7-99ba-a21c17851f77.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874920-2c977c00-cabb-11e7-99ba-a21c17851f77.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874977-79b11442-cabb-11e7-887a-b471e36cc18a.png" width="280"/>
 
+  <img src="https://user-images.githubusercontent.com/32927921/32874880-f0669de2-caba-11e7-9dff-b760dfd87d0c.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874891-04560c0c-cabb-11e7-9dc8-d0f546773d8c.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874906-171a3692-cabb-11e7-8607-85f6a840f017.png" width="280"/>
+  <img src="https://user-images.githubusercontent.com/32927921/32874920-2c977c00-cabb-11e7-99ba-a21c17851f77.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874920-2c977c00-cabb-11e7-99ba-a21c17851f77.png" width="280"/><img src="https://user-images.githubusercontent.com/32927921/32874977-79b11442-cabb-11e7-887a-b471e36cc18a.png" width="280"/>
 
 
 ## Example:
@@ -35,8 +35,6 @@
       isEditable={true}
     />
     ```
-
-
 
 ## Props:
 
