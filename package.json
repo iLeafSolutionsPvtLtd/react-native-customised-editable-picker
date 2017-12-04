@@ -7,8 +7,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.0.0",
-    "react-native": "0.50.2"
+    "react": "^16.0.0",
+    "react-native": "^0.50.2"
   },
   "devDependencies": {
     "babel-jest": "21.2.0",
@@ -20,7 +20,6 @@
     "preset": "react-native"
   },
   "keywords": [
-    "react-native",
     "react native picker",
     "react native customised picker",
     "react-native customised editable picker"
